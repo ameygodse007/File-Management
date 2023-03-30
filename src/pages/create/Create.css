@@ -1,0 +1,14 @@
+.create-form {
+    max-width: 600px;
+  }
+
+  .btn {
+    background: var(--primary-color);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+  }
